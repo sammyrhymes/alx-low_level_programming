@@ -3,8 +3,8 @@
 /**
  *  * main - Print a string
  *   * Description: use printf
- *    * Return: 0
- *     */
+ *    * Return: 0;
+ */
 
 int main(void)
 {
