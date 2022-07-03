@@ -6,7 +6,7 @@
  *  main - Entry point
  *	code to calculate if a random number is positive, negative or zero
  *
- *  Return: Always 0 (correct) 
+ *  Return: Always 0 (correct)
  *
  */
 int main(void)
@@ -21,10 +21,10 @@ if (n == 0)
 if (n < 0)
 {
 	printf("%d is negative\n", n);
-}	
+}
 if (n > 0)
 {
 	printf("%d is positive\n", n);
-}                                                                         
+}
 return (0);
 }
