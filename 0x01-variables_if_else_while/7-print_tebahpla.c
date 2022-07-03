@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry Point
- * Return : Always 0 (success)
+ * return : Always 0 (success)
  */
 int main(void)
 {
@@ -11,5 +11,5 @@ for (alphabet = 122; alphabet >= 97; alphabet--)
 	putchar(alphabet);
 }
 putchar('\n');
-return 0;
+return (0);
 }

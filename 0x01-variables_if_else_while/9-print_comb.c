@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry point
- * Return ; Always 0 (success)
+ * Return : Always 0 (success)
  */
 int main(void)
 {
@@ -17,5 +17,5 @@ for (number = 48; number <= 57; number++)
 	putchar(' ');
 }
 putchar('\n');
-return 0;
+return (0);
 }
