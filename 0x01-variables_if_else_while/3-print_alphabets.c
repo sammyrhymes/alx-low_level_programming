@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry Point
- * Return : Always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -17,5 +17,5 @@ putchar(upper_case);
 }
 putchar('\n');
 		
-return 0;
+return (0);
 }

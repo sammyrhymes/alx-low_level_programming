@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry Point
- * return : Always 0 (success)
+ * return: Always 0 (success)
  */
 int main(void)
 {
@@ -11,5 +11,5 @@ for (i = 0; i < 10; i++)
 printf("%i", i);
 }
 printf("\n");
-return 0;
+return (0);
 }

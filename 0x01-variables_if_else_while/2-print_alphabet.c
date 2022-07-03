@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - entry Point
- * Return : Always 0 (correct)
+ * Return: Always 0 (correct)
  */
 int main(void)
 {
@@ -11,5 +11,5 @@ for (alphabet = 'a'; alphabet <= 'z'; alphabet++)
 putchar(alphabet);
 }
 putchar('\n');
-return 0;
+return (0);
 }
